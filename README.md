@@ -1,4 +1,4 @@
-# Sunglo Window Film Durango
+# Quan. Wellness Questionnaire
 ## General info
 This landing Page is a take home assignment for Quan. Build a Wellness quiz landing page with a Quan vibe. 5-7 questions that is crisp and clean. Display an assessment at the end,
 	
