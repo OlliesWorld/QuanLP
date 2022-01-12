@@ -1,12 +1,15 @@
 import Image from 'next/image'
-import Logo from '../styles/logo.png'
+import Link from 'next/link'
+import Logo from '../assets/logo.png'
 import { SocialIcon } from 'react-social-icons';
 
 const Footer = () => {
     return (
         <footer className='flex justify-evenly py-4 bg-qPurple text-qWhite'>
             <div>
-                <Image src={Logo} alt='logo' />
+            <Link href='/' >
+                <a><Image src={Logo} alt='Quan' layout='fixed'/></a>
+            </Link>
                 <p>Wilhelmina van Pruisenweg 35</p>
                 <p>2595 AN , The Hague, Netherlands</p>
                 <p>KvK: 80307329</p>

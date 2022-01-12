@@ -1,6 +1,6 @@
 [
     {
-      "question": "How often are you in the sunlight > 5min?",
+      "question": "How often are you in the sunlight more than 5min?",
       "answerOptions": [
         { "answer": "Every Day", "isCorrect": true },
         { "answer": "2 - 3 times a Week" },
