@@ -1,0 +1,57 @@
+[
+    {
+      "question": "How often are you in the sunlight > 5min?",
+      "answerOptions": [
+        { "answer": "Every Day", "isCorrect": true },
+        { "answer": "2 - 3 times a Week" },
+        { "answer": "Once a week if I am lucky" },
+        { "answer": "I rarely go outside" }
+      ]
+    },
+    {
+        "question": "Do you meditate?",
+        "answerOptions": [
+          { "answer": "Every Day" },
+          { "answer": "Several times a week" },
+          { "answer": "At least once a eek", "isCorrect": true },
+          { "answer": "Couple of times a month" }
+        ]
+      },
+    {
+      "question": "How often do you stare at a screen?",
+      "answerOptions": [
+        { "answer": "The whole time I am awake" },
+        { "answer": "8 - 10 hours a day" },
+        { "answer": "4 - 6 hours a day", "isCorrect": true },
+        { "answer": "28 March 2018" }
+      ]
+    },
+    {
+      "question": "What ways do you relax after work?",
+      "answerOptions": [
+        { "answer": "Play Video Games" },
+        { "answer": "Read a Book", "isCorrect": true },
+        { "answer": "Go for a walk" },
+        { "answer": "Cook a meal" }
+      ]
+    },
+    {
+      "question": "How often do you talk to people outside of work?",
+      "answerOptions": [
+        { "answer": "All Day" },
+        { "answer": "Every Day" },
+        { "answer": "Few Times a Week", "isCorrect": true },
+        { "answer": "Only talk with Co-Workers" }
+      ]
+    },
+    {
+        "question": "What kind of meals do you eat?",
+        "answerOptions": [
+          { "answer": "Mostly home cooked" },
+          { "answer": "Several times a week I eat fast Food" },
+          { "answer": "At least 1 meal a day is Fast Food", "isCorrect": true },
+          { "answer": "Most meals are Fast Food" }
+        ]
+      }
+      
+  ]
