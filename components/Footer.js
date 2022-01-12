@@ -29,8 +29,8 @@ const Footer = () => {
                     </div>
             </div>
             <div className='items-end'> © {new Date().getFullYear()} Built by 
-                <a href="https://roni.rocks/"   target="_blank" rel="noreferrer" >
-                <span className="text-rBlue font-bold" >Roni</span>
+                <a href='https://roni.rocks/'   target="_blank" rel='noreferrer' >
+                <span className='text-rBlue font-bold' >Roni</span>
                 </a>
             </div>
             

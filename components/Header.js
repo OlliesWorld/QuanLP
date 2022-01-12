@@ -10,8 +10,8 @@ const Header = () => {
                 <a><Image src={Logo} alt='Quan' layout='fixed'/></a>
             </Link>
         </div>
-        <h1 className='col-start-2 col-end-3 text-center text-4xl text-qYellow'>Placing well-being at the heart of success!</h1>
-        
+        <h2 className='col-start-2 col-end-3 text-center text-4xl text-qYellow'>Placing well-being at the heart of success!</h2>
+  
       </div>
     )
 }

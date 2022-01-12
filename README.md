@@ -22,9 +22,12 @@ Vercel
     ```
 
 ### To-do
-
-- [x] functioning
-
+- [ X ] Consistent code
+- [ ] Hide 1st button
+- [ ] Not skip-able
+- [ ] Nav links header & footer
+- [ ] Adding image to background
+- [ ] Better scoring & assessment messaging
 - [ ] Done!
 
 ### License
