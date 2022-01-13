@@ -5,7 +5,7 @@ import { SocialIcon } from 'react-social-icons';
 
 const Footer = () => {
     return (
-        <footer className='flex justify-evenly py-4 bg-qPurple text-qWhite'>
+        <footer className='lg:flex justify-evenly py-4 bg-qPurple text-qWhite text-center lg:text-left'>
             <div>
             <Link href='/' >
                 <a><Image src={Logo} alt='Quan' layout='fixed'/></a>
@@ -15,7 +15,7 @@ const Footer = () => {
                 <p>KvK: 80307329</p>
                     <div>
                         <p>Connect with us!</p>
-                        <div className=' w-[55%] flex justify-evenly -ml-2'>
+                        <div className=' w-[55%] flex justify-evenly m-auto lg:-ml-2'>
                        
                             <SocialIcon url='https://www.linkedin.com/company/quan-wellbeing' bgColor='#fee622'  style={{ height: 25, width: 25 }}/>
                        

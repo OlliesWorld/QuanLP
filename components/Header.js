@@ -4,8 +4,8 @@ import Logo from '../assets/logo.png'
 
 const Header = () => {
     return (
-        <div className='bg-qPurple m-auto grid grid-cols-3 gap-4 text-center py-12'>
-        <div className='w-2/3'>
+        <div className='bg-qPurple m-auto lg:grid g:grid-cols-3 gap-4 text-center py-12 l'>
+        <div className='w-2/3 m-auto'>
             <Link href='/' >
                 <a><Image src={Logo} alt='Quan' layout='fixed'/></a>
             </Link>

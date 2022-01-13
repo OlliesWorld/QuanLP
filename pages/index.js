@@ -74,8 +74,8 @@ export default function Home() {
           </div>
         </div>
       ) : (
-      <div className='flex flex-col w-[40%] my-4 px-5 mx-auto justify-center items-center shadow-2xl border-2 border-qPurple/50 rounded-lg'>
-        <p className='text-xl' >Question {currentQuestion + 1} of {questions.length}</p>
+      <div className='flex flex-col w-[75%] lg:w-[40%] my-4 px-5 mx-auto justify-center items-center shadow-2xl border-2 border-qPurple/50 rounded-lg'>
+        <p className='text-xl text-center' >Question {currentQuestion + 1} of {questions.length}</p>
         <div className='mt-4 text-2xl'>
          {questions[currentQuestion].question}
         </div>
